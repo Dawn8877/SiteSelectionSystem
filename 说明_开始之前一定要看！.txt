@@ -1,0 +1,16 @@
+1.解压整个文件夹到桌面（不要只移动一个文件）
+
+2.安装环境：打开终端（cmd/Anaconda Prompt/Terminal），进入该文件夹，输入：
+pip install -r requirements.txt
+或者，直接打开 requirements.txt，在编译器里pip 这些库
+
+3.启动系统：在Terminal里输入：
+python -m streamlit run app.py
+
+4.注意：运行后会自动打开浏览器，如果没反应，手动复制终端里的 http://localhost:8501 到浏览器即可
+
+5.结果：红色圈圈（Size） 代表真实的人口规模（Pop_Real）。
+
+红色深浅（Color） 代表该区的医疗缺口（Score）。
+
+蓝色圈圈（Markers） 代表建议的微网站点（Proposed Sites）。

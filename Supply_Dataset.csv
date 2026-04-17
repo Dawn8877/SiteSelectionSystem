@@ -1,0 +1,56 @@
+hospital_id,hospital_name,Sector,Beds,Staff,Sj,lat,lon
+0,Alice Ho Miu Ling Nethersole Hospital,Public,640,1707,0.279166443,22.458696,114.17479
+1,Bradbury Hospice,Public,26,69,0.010942975,22.398512,114.2151
+2,Caritas Medical Centre,Public,1298,3628,0.578800703,22.340629,114.15231
+3,Castle Peak Hospital,Public,1156,2938,0.493913441,22.410011,113.97374
+4,"Cheshire Home, Chung Hom Kok",Public,240,663,0.106112972,22.212024,114.1973
+5,"Cheshire Home, Shatin",Public,304,811,0.132386174,22.39918,114.21653
+6,Grantham Hospital,Public,389,922,0.161028718,22.251156,114.17316
+7,Haven of Hope Hospital,Public,601,1964,0.288630791,22.313773,114.25627
+8,Hong Kong Buddhist Hospital,Public,376,1303,0.185893075,22.33568,114.18874
+9,Hong Kong Children's Hospital,Public,278,964,0.137334049,22.315757,114.20886
+10,Hong Kong Eye Hospital,Public,45,156,0.021882489,22.324927,114.18462
+11,Kowloon Hospital,Public,1363,4724,0.67495183,22.323708,114.17957
+12,Kwai Chung Hospital,Public,955,2669,0.425741386,22.342892,114.13336
+13,Kwong Wah Hospital,Public,1245,4315,0.6164828,22.31429,114.1721
+14,MacLehose Medical Rehabilitation Centre,Public,110,261,0.045237449,22.269795,114.12399
+15,North District Hospital,Public,724,1931,0.31586151,22.496832,114.12456
+16,North Lantau Hospital,Public,180,503,0.079907651,22.282571,113.93914
+17,Our Lady of Maryknoll Hospital,Public,236,533,0.095585491,22.345588,114.19657
+18,Pamela Youde Nethersole Eastern Hospital,Public,1929,5329,0.85580373,22.26918,114.23643
+19,Pok Oi Hospital,Public,822,2089,0.351088435,22.44523,114.04159
+20,Prince of Wales Hospital,Public,1917,5112,0.837018836,22.379939,114.20129
+21,Princess Margaret Hospital,Public,1846,5159,0.823338621,22.340057,114.1347
+22,Queen Elizabeth Hospital,Public,2019,6998,1,22.30886,114.17519
+23,Queen Mary Hospital,Public,1639,3884,0.679806804,22.2704,114.13117
+24,Ruttonjee & Tang Shiu Kin Hospitals,Public,658,1818,0.291649228,22.275909,114.17529
+25,Shatin Hospital,Public,601,1603,0.262129447,22.398115,114.21263
+26,Siu Lam Hospital,Public,520,1321,0.221947262,22.41005,113.97487
+27,St. John Hospital,Public,87,240,0.038201375,22.208059,114.03151
+28,Tai Po Hospital,Public,1054,2811,0.460020703,22.46143,114.17464
+29,The Duchess of Kent Children's Hospital at Sandy Bay,Public,136,322,0.056028033,22.271574,114.12424
+30,Tin Shui Wai Hospital,Public,300,762,0.127870911,22.458704,113.99585
+31,Tsan Yuk Hospital,Public,1,2,0,22.286146,114.14457
+32,Tseung Kwan O Hospital,Public,847,2768,0.406942388,22.317964,114.27021
+33,Tuen Mun Hospital,Public,2130,5413,0.910415105,22.40708,113.97621
+34,Tung Wah Eastern Hospital,Public,262,724,0.115878038,22.274725,114.19026
+35,Tung Wah Group of Hospitals Fung Yiu King Hospital,Public,272,645,0.112471089,22.271408,114.12483
+36,Tung Wah Group of Hospitals Wong Tai Sin Hospital,Public,531,1258,0.219961908,22.346808,114.19632
+37,Tung Wah Hospital,Public,532,1261,0.220376931,22.284955,114.14661
+38,United Christian Hospital,Public,1584,5176,0.761396238,22.322291,114.2279
+39,Wong Chuk Hang Hospital,Public,160,442,0.07060364,22.250966,114.17591
+40,Yan Chai Hospital,Public,811,2267,0.361483247,22.369548,114.11956
+41,Canossa Hospital (Caritas),Private,179,404,0.072398926,22.2773623,114.15385
+42,Hong Kong Adventist Hospital - Stubbs Road,Private,110,248,0.04433098,22.2633117,114.184064
+43,Hong Kong Baptist Hospital,Private,614,1386,0.249349026,22.339517,114.180157
+44,Hong Kong Sanatorium & Hospital Limited,Private,568,1282,0.230637061,22.269588,114.182953
+45,Matilda and War Memorial Hospital,Private,94,212,0.03782247,22.2591606,114.149336
+46,Precious Blood Hospital (Caritas),Private,72,163,0.02887327,22.3338918,114.161758
+47,St. Paul¡¯s Hospital,Private,468,1056,0.189958877,22.2785215,114.188233
+48,St. Teresa's Hospital,Private,1081,2440,0.439316144,22.3263335,114.184861
+49,Hong Kong Adventist Hospital - Tsuen Wan,Private,331,747,0.134229766,22.376625,114.10463
+50,Union Hospital,Private,462,1043,0.187518186,22.3603133,114.175174
+51,Evangel Hospital,Private,57,129,0.022771542,22.3251782,114.186919
+52,Gleneagles Hospital Hong Kong,Private,417,941,0.169213004,22.2515795,114.176413
+53,CUHK Medical Centre,Private,315,711,0.127721256,22.413373,114.21115
+54,HKSH Eastern Medical Centre,Private,24,54,0.009347742,22.28217,114.23226
